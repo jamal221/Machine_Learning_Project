@@ -1,0 +1,5 @@
+https://github.com/WanjohiChristopher/Big-Mart-Sales-Prediction-Using-Neural-Networks/blob/master/Big_mart_sales_neural_networks/comments
+********************
+https://www.kaggle.com/hiralmshah/bigmart-sales-prediction/comments
+***************
+https://github.com/aarshayj/analytics_vidhya/blob/master/Articles/Getting_Started_with_BigMart_Sales(AV_Datahacks)/model_building.ipynb
